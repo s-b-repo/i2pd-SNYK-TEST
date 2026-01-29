@@ -6,7 +6,7 @@
 # See full license text in LICENSE file at top of project tree
 #
 
-FROM alpine:latest
+FROM alpine:3.23.3
 LABEL authors="Mikal Villa <mikal@sigterm.no>, Darknet Villain <supervillain@riseup.net>"
 LABEL maintainer="R4SAS <r4sas@i2pmail.org>"
 
